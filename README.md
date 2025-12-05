@@ -30,7 +30,7 @@ The notebook performs a full **ETL (Extract, Transform, Load)** workflow:
     *   Generates a dual-panel Compliance Dashboard using `matplotlib` and `seaborn`.
 
 ## 📊 Sample Visualization
-*(Note: Upload the image of your graph to your repo and link it here)*
+![Market Risk Dashboard](DART_price_graph.png)
 
 The tool produces a risk profile where:
 *   **Blue/Orange Lines:** Compare Forecast vs. Actuals.
